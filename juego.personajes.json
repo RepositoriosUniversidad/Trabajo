@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66364ce3ad62e2ec252fdd18"
+  },
+  "id": "1234",
+  "nombre": "Pedro",
+  "rol": "Guerrero"
+},
+{
+  "_id": {
+    "$oid": "66364d8dad62e2ec252fdd19"
+  },
+  "id": "5678",
+  "nombre": "Juan",
+  "rol": "Sacerdote"
+},
+{
+  "_id": {
+    "$oid": "66364d8dad62e2ec252fdd1a"
+  },
+  "id": "9000",
+  "nombre": "Carlos",
+  "rol": "Explorador"
+}]
